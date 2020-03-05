@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2870-B4D9
+
+ Directory of C:\Users\Administrator\Desktop\New
+
+03/05/2020  10:40 AM    <DIR>          .
+03/05/2020  10:40 AM    <DIR>          ..
+03/05/2020  10:32 AM               729 cdt.class
+03/05/2020  09:37 AM               236 cdt.java
+03/05/2020  10:40 AM                 0 new1.txt
+               3 File(s)            965 bytes
+               2 Dir(s)  12,483,039,232 bytes free
